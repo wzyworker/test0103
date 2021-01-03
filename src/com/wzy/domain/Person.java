@@ -1,0 +1,8 @@
+package com.wzy.domain;
+
+/**
+ * @author wzy
+ */
+public class Person {
+    private String id;
+}
